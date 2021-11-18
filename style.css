@@ -1,0 +1,32 @@
+.header
+{
+    font-size: 20px;  
+}
+
+body
+{
+    background-size: cover;
+
+}
+  
+.para
+{
+    font-size: 15px;
+}
+  
+canvas
+{
+   border: 10px solid goldenrod; 
+}
+
+.footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+}
